@@ -1,6 +1,6 @@
 # Awesome-DevAI [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-**DevAI is the community of developers building software with the help of [large language models (LLMs)](a16z.com/ai-canon).**
+**DevAI is the community of developers building software with the help of [large language models (LLMs)](https://a16z.com/ai-canon).**
 
 ## Getting started
 
