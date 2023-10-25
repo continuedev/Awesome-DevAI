@@ -1,4 +1,4 @@
-# Awesome DevAI [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome-DevAI [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 **DevAI is the community of developers building software with the help of [large language models (LLMs)](a16z.com/ai-canon).**
 
