@@ -10,6 +10,8 @@ It can be hard to figure out what LLM to use while coding. [What LLM to use? A p
 
 Researchers use benchmarks to evaluate and compare the relative performance of LLMs. [An introduction to code LLM benchmarks for software engineers](https://blog.continue.dev/an-introduction-to-code-llm-benchmarks-for-software-engineers/) gives you an overview of the current code benchmarks, so you can use them to figure out which LLMs are worth trying.
 
+When you use an LLM while coding, you might want to adjust the preset. [Is it still necessary to tune an LLM preset? Tracing the history of temperature, penalty, and sampling schemes](https://blog.continue.dev/tune-llm-preset/) gives you the confidence to adjust the model preset when needed.
+
 If you find an open-source code LLM useful, you will likely want to deploy it for your entire team. [How to deploy an open-source code LLM for your dev team](https://github.com/continuedev/deploy-os-code-llm) provides a guide on how to make this happen.
 
 Codex, a GPT language model fine-tuned on publicly available code from GitHub, is the model behind GitHub Copilot. [Evaluating Large Language Models Trained on Code](https://arxiv.org/abs/2107.03374) introduced it to the world, while also discussing the potential broader impacts of deploying powerful code generation technologies.
