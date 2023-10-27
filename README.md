@@ -6,6 +6,8 @@
 
 Many developers have concerns about how LLMs will impact development. [What AI won’t replace in your programming](https://www.infoworld.com/article/3709230/what-ai-wont-replace-in-your-programming.html) describes why the expertise and intuition of programmers will remain important.
 
+A GitHub survey found that 92% of developers are already using AI tools at work or in their personal time. [Developers are the first group to adopt AI at work. Here’s why that matters.](https://github.blog/2023-10-27-developers-are-the-first-group-to-adopt-ai-at-work-heres-why-that-matters/) provides some insight into how software development is already evolving due to LLMs.
+
 It can be hard to figure out what LLM to use while coding. [What LLM to use? A perspective from the DevAI space](https://github.com/continuedev/what-llm-to-use) walks you through the most popular commercial and open-source models.
 
 Researchers use benchmarks to evaluate and compare the relative performance of LLMs. [An introduction to code LLM benchmarks for software engineers](https://blog.continue.dev/an-introduction-to-code-llm-benchmarks-for-software-engineers/) gives you an overview of the current code benchmarks, so you can use them to figure out which LLMs are worth trying.
