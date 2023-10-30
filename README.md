@@ -24,4 +24,6 @@ When you do or don't hit tab after a GitHub Copilot suggestion, this signals wha
 
 Software isn’t created in one dramatic step. [Large sequence models for software development activities](https://blog.research.google/2023/05/large-sequence-models-for-software.html) explains how Google is using the process of software development as the source of training data for its ML models that assist developers.
 
-There is a lot of great research on code LLMs. [Awesome-Code-LLM](https://github.com/huybery/Awesome-Code-LLM) is a curated list of best code LLM research and is a great place to read more about the latest.
+There is a lot of great research on code LLMs. [Large Language Models for Software Engineering: Survey and Open Problems](https://arxiv.org/abs/2310.03533) gives an overview of the latest as of October 2023.
+
+It's worth it to learn more about code LLM research too. [Awesome-Code-LLM](https://github.com/huybery/Awesome-Code-LLM) is a curated list of best code LLM research and is a great place to read more about the latest.
