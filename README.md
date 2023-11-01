@@ -12,6 +12,8 @@ It can be hard to figure out what LLM to use while coding. [What LLM to use? A p
 
 Researchers use benchmarks to evaluate and compare the relative performance of LLMs. [An introduction to code LLM benchmarks for software engineers](https://blog.continue.dev/an-introduction-to-code-llm-benchmarks-for-software-engineers/) gives you an overview of the current code benchmarks, so you can use them to figure out which LLMs are worth trying.
 
+It can be deceptively challenging to use LLMs while coding. [How to use a Large Language Model while coding](https://blog.continue.dev/how-to-use-an-llm-while-coding/) helps you avoid common mistakes and shares some ideas for how to think about using LLMs while coding.
+
 When you use an LLM while coding, you might want to adjust the preset. [Is it still necessary to tune an LLM preset? Tracing the history of temperature, penalty, and sampling schemes](https://blog.continue.dev/tune-llm-preset/) gives you the confidence to adjust the model preset when needed.
 
 If you find an open-source code LLM useful, you will likely want to deploy it for your entire team. [How to deploy an open-source code LLM for your dev team](https://github.com/continuedev/deploy-os-code-llm) provides a guide on how to make this happen.
