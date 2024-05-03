@@ -1,7 +1,5 @@
 # Awesome-DevAI [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-**DevAI is the community of developers building software with the help of [large language models (LLMs)](https://a16z.com/ai-canon).**
-
 ## Getting started
 
 Many developers have concerns about how LLMs will impact development. [What AI won’t replace in your programming](https://www.infoworld.com/article/3709230/what-ai-wont-replace-in-your-programming.html) describes why the expertise and intuition of programmers will remain important.
@@ -28,4 +26,6 @@ Software isn’t created in one dramatic step. [Large sequence models for softwa
 
 There is a lot of great research on code LLMs. [Large Language Models for Software Engineering: Survey and Open Problems](https://arxiv.org/abs/2310.03533) gives an overview of the latest as of October 2023.
 
-It's worth it to learn more about code LLM research too. [Awesome-Code-LLM](https://github.com/huybery/Awesome-Code-LLM) is a curated list of best code LLM research and is a great place to read more about the latest.
+[amplified.dev](https://amplified.dev) is a living document that begins to sketch a vision for a future where developers are amplified, not automated. It is focused on how systemic issues some platform development teams have seen in how engineering organizations are adopting, using, and evolving AI software development systems.
+
+It's worth it to learn more about code LLM research too. [codefuse-ai/Awesome-Code-LLM](https://github.com/codefuse-ai/Awesome-Code-LLM) and [huybery/Awesome-Code-LLM](https://github.com/huybery/Awesome-Code-LLM) are curated list of best code LLM research and is a great place to read more about the latest.
